@@ -6,7 +6,7 @@
 
 # > In this coded simple if - else function are used with a random function to play fair.
 
-# > You can run this code on VScode or pther different python compilers. 
+# > You can run this code on VScode or other different python compilers. 
 
 def game(a,b):
     if a == "s":
