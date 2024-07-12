@@ -1,4 +1,11 @@
 # Snake_Water_Gun_game
+
+# It is a simple but popular two person game.
+
+# In this you need to compete with the computer.
+
+#In this coded simple if - else function are used.
+
 def game(a,b):
     if a == "s":
         if b == "s":
