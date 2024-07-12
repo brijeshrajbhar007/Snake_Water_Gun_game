@@ -1,10 +1,12 @@
 # Snake_Water_Gun_game
 
-# It is a simple but popular two person game.
+# > It is a simple but popular person vs computer game.
 
-# In this you need to compete with the computer.
+# > In this you need to choose one of three option in order to defeate computer.
 
-#In this coded simple if - else function are used.
+# > In this coded simple if - else function are used with a random function to play fair.
+
+# > You can run this code on VScode or pther different python compilers. 
 
 def game(a,b):
     if a == "s":
